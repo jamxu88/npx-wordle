@@ -1,0 +1,17 @@
+{
+  "name": "npx-wordle",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
